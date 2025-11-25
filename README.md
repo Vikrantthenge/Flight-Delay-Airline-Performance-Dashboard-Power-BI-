@@ -6,7 +6,7 @@
 ![Excel](https://img.shields.io/badge/Excel-Data%20Prep-lightgrey)
 ![Python](https://img.shields.io/badge/Python-Used%20for%20Preprocessing-blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
-![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
+![Stars](https://img.shields.io/github/stars/vikrantthenge/REPO?style=social)
 
 
 ---

@@ -6,7 +6,6 @@
 ![Excel](https://img.shields.io/badge/Excel-Data%20Prep-lightgrey)
 ![Python](https://img.shields.io/badge/Python-Used%20for%20Preprocessing-blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
-![Stars](https://img.shields.io/github/stars/vikrantthenge/https://github.com/Vikrantthenge/Flight-Delay-Airline-Performance-Dashboard-Power-BI-/blob/main/README.md?style=social)
 
 
 ---
